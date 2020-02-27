@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"cl.awakelab.tienda"},{"l":"cl.awakelab.tienda.models"},{"l":"cl.awakelab.tienda.tests"}]
